@@ -4,7 +4,7 @@ Replaces the default Plasma Shotgun sound effect and adds five additional variat
 
 
 ## Video Preview
-[Watch JH_NewCritSound_Demo](https://imagekit.io/player/embed/g4m3m0ds/JH_NewPlasmaShotgunSound/JH_NewPlasmaShotgunSound_Demo.mp4)
+[Watch JH_NewPlasmaShotgunSound_Demo](https://imagekit.io/player/embed/g4m3m0ds/JH_NewPlasmaShotgunSound/JH_NewPlasmaShotgunSound_Demo.mp4)
 
 
 ## Added Sounds
